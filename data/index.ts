@@ -109,60 +109,48 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "As a professor and over the past three semesters, I have had the privilege of observing Donald Jasper Su's outstanding performance in our Software Security Lab. As the team leader of their project team, Donald's ability to guide teams effectively and mentor peers stands out during intricate project undertakings. He led the team to two Intel Dev Cup awards and executed the graduation project perfectly.",
+    name: "YU Fang",
+    title: "Professor, Department of Management of Information Systems, NCCU",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "It is my pleasure to recommend Donald Su, During his year-long internship at MediaTek Inc., Donald consistently excelled and could contribute to any industry program in this field. As a self-starter who is capable of tackling complex challenges and demonstrating exceptional performance and responsibility, he is a fast learner who is proactive.",
+    name: "Ken Hsieh",
+    title: "Ken Hsieh, ASIC BU General Manager, MediaTek Inc.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "It is my pleasure to recommend Donald Jasper Su. I am a professor in the Department of MIS at National Chengchi University. I specialize in artificial neural networks and first came to know Donald Regarding his personality, Donald is a well-disciplined and assiduous student with a pleasant personality. Throughout the classes, I noticed that Donald had showed great perseverance and initiative. He was also willing to aid his colleague students in finishing their duties.",
+    name: "Rua-Huan Tsaih",
+    title: "Distinguished Professor Department of Management Information Systems National Chengchi University",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "",
+    img: "",
+    nameImg: "/Intelligo_Inc.png",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "",
+    img: "",
+    nameImg: "/NCCU.png",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "",
+    img: "",
+    nameImg: "/Info.png",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "",
+    img: "",
+    nameImg: "/Umich.jpg",
   },
   {
     id: 5,
