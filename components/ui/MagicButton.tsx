@@ -15,7 +15,7 @@ const MagicButton = ({
 }) => {
   return (
     <button
-      className="relative inline-flex h-12 w-auto md:w-60 md:mt-10 overflow-hidden rounded-lg p-[1px] focus:outline-none"
+      className="relative inline-flex h-12 w-auto sm:w-full md:w-60 sm:mt-5 md:mt-10 overflow-hidden rounded-lg p-[1px] focus:outline-none"
       onClick={handleClick}
     >
       {/* Adjust the inset to avoid the overflow issue */}
@@ -24,7 +24,7 @@ const MagicButton = ({
       {/* Adjust padding and ensure it's responsive */}
       <span
         className={`inline-flex h-full w-full cursor-pointer items-center justify-center rounded-lg
-             bg-[#0077b5] px-5 py-2 text-lg font-bold text-white backdrop-blur-3xl gap-2 ${otherClasses}`}
+             bg-[#0077b5] sm:px-5 sm:py-2 md:px-7 md:py-2 text-sm sm:text-base md:text-lg font-bold text-white backdrop-blur-3xl gap-2 ${otherClasses}`}
       >
         {position === "left" && icon}
         {title}
