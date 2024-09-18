@@ -3,6 +3,7 @@ import { Spotlight } from "./ui/Spotlight"; // Ensure this path and casing are c
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 
 const Hero = () => {
   return (
@@ -53,10 +54,14 @@ const Hero = () => {
             Hi, I&apos;m Donald Jasper Su from University of Michigan{" "}
             {/* Escape single quote */}
           </p>
-          <a href="#about">
+          <a
+            href="https://www.linkedin.com/in/your-profile"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <MagicButton
-              title="Show my work"
-              icon={<FaLocationArrow />}
+              title="LinkedIn"
+              icon={<FaLinkedin />}
               position="right"
             />
           </a>

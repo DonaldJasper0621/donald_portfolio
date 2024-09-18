@@ -90,9 +90,9 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Student_Cafeteria_Inventory-Management-Admin",
+    des: "This system aims to enhance the restaurant experience for both customers and staff by improving ingredient management, streamlining ordering processes, and providing valuable customer feedback channels.",
+    img: "/cafe.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://github.com/adrianhajdin/ai_saas_app",
   },
