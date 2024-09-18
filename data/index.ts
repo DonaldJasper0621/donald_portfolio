@@ -9,7 +9,7 @@ export const gridItems = [
   {
     id: 1,
     title:
-      "I am currently an incomming student of MHI, I am open for any competition, clubs or projects! ",
+      "I am currently an Master student of MHI, I am open for internships or projects! ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -19,7 +19,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "I'm very flexible with working in different citys.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -123,7 +123,8 @@ export const testimonials = [
     quote:
       "It is my pleasure to recommend Donald Jasper Su. I am a professor in the Department of MIS at National Chengchi University. I specialize in artificial neural networks and first came to know Donald Regarding his personality, Donald is a well-disciplined and assiduous student with a pleasant personality. Throughout the classes, I noticed that Donald had showed great perseverance and initiative. He was also willing to aid his colleague students in finishing their duties.",
     name: "Rua-Huan Tsaih",
-    title: "Distinguished Professor Department of Management Information Systems National Chengchi University",
+    title:
+      "Distinguished Professor Department of Management Information Systems National Chengchi University",
   },
 ];
 
