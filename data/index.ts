@@ -9,7 +9,7 @@ export const gridItems = [
   {
     id: 1,
     title:
-      "I am currently an Master student of MHI, I am open for internships or projects! ",
+      "I am an Award-Winning Project Manager, Data Analyst, former audio algorithm engineer",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -19,7 +19,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with working in different citys.",
+    title: "Experienced in diverse work environments USA and TW",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -29,8 +29,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "My Tech Stack ",
+    description: "Python, R, JavaScript, React, Git, Linux",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -39,7 +39,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Open for internships and projects",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -50,8 +50,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
+    title: "Current Project: Reddit Post Mining",
+    description: "Advancing data extraction and transformation skills",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -76,7 +76,7 @@ export const projects = [
     title:
       "Trans Voxia - The Best Speech_to_speech Conversion ToolKit Web Application",
     des: "At present, the official Trans Voxia can have three types of output: translated text, translated audio, and translated video. Users can freely decide the output format according to the material they want to translate (podcast, movie, etc.).",
-    img: "/trans.png",
+    img: "/TransVoxiaPic2.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/DonaldJasper0621/Trans-Voxia-Speech-to-Speech-Converter",
   },
@@ -98,9 +98,9 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Wenshan Cram School Operating System",
+    des: "I developed to manage and streamline operations for educational institutions. This system is a perfect blend of cutting-edge frontend and backend technologies to ensure optimal performance and user experience.",
+    img: "cramschool.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/adrianhajdin/iphone",
   },
@@ -164,29 +164,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Speech and Audio Algorithm Engineer Intern",
+    desc: "Trained and refined AI models for singing voice conversion and noise suppression at Intelligo Technology Inc.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Project Manager, 1st Place ICT Award",
+    desc: "Led the Trans Voxia Speech to Speech Converter project, integrating complex multimodal fusion models.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Team Leader, Intel® DevCup",
+    desc: "Developed AI-based real-time training tool for facial nerve paralysis rehabilitation, winning two awards.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Data Analyst, Reddit Post Mining Project",
+    desc: "Working on data extraction and transformation using Reddit's API for the Michigan Data Science Team.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -196,13 +196,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/DonaldJasper0621", // GitHub link
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://www.instagram.com/donaldsu0621/", // Twitter link
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "www.linkedin.com/in/donald-su-763963244", // LinkedIn link
   },
 ];

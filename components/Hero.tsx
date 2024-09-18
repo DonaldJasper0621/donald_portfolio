@@ -48,7 +48,7 @@ const Hero = () => {
           </p>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless Experience"
+            words="Data-Driven Insights, Human-Centered Solutions"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi, I&apos;m Donald Jasper Su from University of Michigan{" "}
