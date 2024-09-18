@@ -196,7 +196,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/DonaldJasper0621", // GitHub link
+    link: "https://github.com/DonaldJasper0621/", // GitHub link
   },
   {
     id: 2,
@@ -206,6 +206,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "www.linkedin.com/in/donald-su-763963244", // LinkedIn link
+    link: "https://www.linkedin.com/in/donald-su-763963244/", // LinkedIn link
   },
 ];

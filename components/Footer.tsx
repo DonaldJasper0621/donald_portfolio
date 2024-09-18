@@ -22,10 +22,10 @@ const Footer = () => {
           <span className="text-purple">Shine</span> in my future work.
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-        Data-Driven Insights, Human-Centered Solutions
+          Data-Driven Insights, Human-Centered Solutions
         </p>
         <a
-          href="https://www.linkedin.com/in/donald-su-763963244"
+          href="https://www.linkedin.com/in/donald-su-763963244/"
           target="_blank"
           rel="noopener noreferrer"
         >

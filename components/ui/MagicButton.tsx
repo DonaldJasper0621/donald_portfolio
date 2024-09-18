@@ -18,8 +18,8 @@ const MagicButton = ({
       className="relative inline-flex h-12 w-auto sm:w-full md:w-60 sm:mt-5 md:mt-10 overflow-hidden rounded-lg p-[1px] focus:outline-none"
       onClick={handleClick}
     >
-      {/* Adjust the inset to avoid the overflow issue */}
-      <span className="absolute inset-[-150%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]" />
+      {/* Gradient animation only visible on md and larger screens */}
+      <span className="hidden md:block absolute inset-[-150%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]" />
 
       {/* Adjust padding and ensure it's responsive */}
       <span
