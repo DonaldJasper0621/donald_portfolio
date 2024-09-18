@@ -6,8 +6,14 @@ const Clients = () => {
   return (
     <div className="py-20" id="testimonials">
       <h1 className="heading">
-        Job & Lab Experience at
-        <span className="text-purple">Intelligo Inc.& NCCU & UMich</span>
+        Recommendation from my supervisors at
+        <br />
+        <span className="text-purple">
+          Intelligo Inc. &
+          
+          NCCU & UMich
+          <br />
+        </span>
       </h1>
       <div className="flex flex-wrap items-center max-lg:mt-10">
         <InfiniteMovingCards

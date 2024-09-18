@@ -55,7 +55,7 @@ const Hero = () => {
             {/* Escape single quote */}
           </p>
           <a
-            href="https://www.linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/in/donald-su-763963244"
             target="_blank"
             rel="noopener noreferrer"
           >

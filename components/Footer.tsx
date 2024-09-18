@@ -22,8 +22,7 @@ const Footer = () => {
           <span className="text-purple">Shine</span> in my future work.
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals.
+        Data-Driven Insights, Human-Centered Solutions
         </p>
         <a
           href="https://www.linkedin.com/in/donald-su-763963244"
